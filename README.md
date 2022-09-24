@@ -1,3 +1,11 @@
+# Atari 800/800XL/65XE/130XE and Atari 5200 for [SoCkit (MiSTer) Platform](https://github.com/sockitfpga/MiSTer_SoCkit) 
+
+Ported by Somhic from https://github.com/MiSTer-devel/Atari800_MiSTer
+
+Follows original README.
+
+
+
 # Atari 800/800XL/65XE/130XE and Atari 5200 for [MiSTer Board](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 ### This is the port of [Atari 800XL core by Mark Watson](http://www.64kib.com/redmine/projects/eclairexl)
@@ -18,6 +26,7 @@ Turbo ROM has hot keys to control the turbo mode:
 * SHIFT+CONTROL+N    Disable highspeed SIO (normal speed)
 * SHIFT+CONTROL+H    Enable highspeed SIO 
   
+
 Additionally, you can control the speed of turbo loading in OSD menu.
 
 ### Disks
